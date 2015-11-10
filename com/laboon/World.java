@@ -17,11 +17,7 @@ public class World {
 	Cell[][] _world;
 	
 	/**
-<<<<<<< HEAD
-	 * A random number generator (actually pseudo-random, of course).
-=======
 	 * A pseudo-random number generator.
->>>>>>> wjl_display
 	 */
 	
 	Random _rng;
